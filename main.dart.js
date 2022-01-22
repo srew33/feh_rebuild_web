@@ -24918,7 +24918,7 @@ qC(a){return A.iS(new A.tS("Paste is not implemented for this browser."),null,t.
 A.dO.prototype={
 gtG(a){var s=this.a
 s=s==null?null:J.aDx(s)
-return s==null?"https://unpkg.com/canvaskit-wasm@0.30.0/bin/":s},
+return s==null?"https://unpkg.zhimg.com/canvaskit-wasm@0.30.0/bin/":s},
 gtH(a){var s=this.a
 s=s==null?null:J.aDy(s)
 return s==null?!1:s},
