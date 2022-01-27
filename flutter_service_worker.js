@@ -13,8 +13,8 @@ const RESOURCES = {
 "assets/assets/blessing/6.webp": "4494fb4cdcaf5e5439048750abbb35c8",
 "assets/assets/blessing/7.webp": "9e345cdea0c704b535b0a0a21f7ce2b5",
 "assets/assets/blessing/8.webp": "85dde1164352ac1fbf02dada9e2e2369",
-"assets/assets/data.version": "e8d45834fbe7217ac2ce60cdaa6ab4c3",
-"assets/assets/data.zip": "f978fe83967f5ff3689736f1f78f38c0",
+"assets/assets/data.version": "03fa7674b09f1a323e7aeddb9f941696",
+"assets/assets/data.zip": "1f4fff1b7fdea8ccbb0224db995ef7f8",
 "assets/assets/faces/ch00_00_Eclat_F_Avatar01.webp": "a4ddfa9717c47f0dd5a9a343aabeb4e4",
 "assets/assets/faces/ch00_00_Eclat_F_Avatar02.webp": "d39e18fd256ece4d3f538f2c3d9d5150",
 "assets/assets/faces/ch00_00_Eclat_F_Avatar03.webp": "23bff8180ba4eaa0eab017913f405e6d",
@@ -2469,9 +2469,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c9e883d5e3d40544e71cab6ba9ec3a39",
-"/": "c9e883d5e3d40544e71cab6ba9ec3a39",
-"main.dart.js": "6b2f6fa3b9ea954674f52d189766cb38",
+"index.html": "931f397d5e1aedd470428d317aa7bf41",
+"/": "931f397d5e1aedd470428d317aa7bf41",
+"main.dart.js": "3f4bcf9f98b50b0a7b2b27f1978e6433",
 "manifest.json": "1574ad9048092f89b941ce3605536013",
 "version.json": "9493f1e0207fa123c1269d8b04682228"
 };
