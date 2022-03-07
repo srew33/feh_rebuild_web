@@ -1,6 +1,6 @@
 {
-    "name": "feh_rebuilder_web",
-    "short_name": "feh_rebuilder_web",
+    "name": "feh_rebuilder",
+    "short_name": "feh_rebuilder",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
