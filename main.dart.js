@@ -10456,7 +10456,7 @@ m=n.c
 m===$&&A.b()
 m=m.at.a
 m.toString
-s=m<1725367918394?10:11
+s=m<1725776113359?10:11
 break
 case 10:s=$.XO.bv()===B.a85?12:13
 break
@@ -36407,7 +36407,7 @@ A.b5y.prototype={
 $1(a){var s=A.fY().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/b8800d88be4866db1b15f8b954ab2573bba9960f/":s)+a},
+if(s==null)s=null}return(s==null?"/canvaskit/":s)+a},
 $S:17}
 A.b5P.prototype={
 $1(a){this.a.remove()
