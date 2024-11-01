@@ -35574,8 +35574,11 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 sqflite
+sqflite_android
 sqflite_common
 sqflite_common_ffi
+sqflite_darwin
+sqflite_platform_interface
 
 BSD 2-Clause License
 
